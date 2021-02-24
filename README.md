@@ -18,4 +18,4 @@ My name is **Pedro Henrique**, I'm a Software Developer, and currently I work as
 
 I have a degree in Systems Analysis and Development from FIT (Faculdade Impacta de Tecnologia).
 
-** Technology **: floppy_disk: ** Computers **: computer: ** Video-games **: video_game: is what I like / study / do most in my free time. I am interested in ** Philosophy **: question: also, besides being pertinent, it is a very interesting subject that I like to consume on a daily basis, in addition to having recently created the habit of ** Meditation **: thought_balloon: 
+**Technology**:floppy_disk: **Computers**:computer: **Video-games**:video_game: is what I like / study / do most in my free time. I am interested in ** Philosophy **: question: also, besides being pertinent, it is a very interesting subject that I like to consume on a daily basis, in addition to having recently created the habit of ** Meditation **: thought_balloon: 
