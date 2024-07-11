@@ -1,5 +1,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-santana-dos-santos-80ab14161/)](https://www.linkedin.com/in/pedro-henrique-santana-dos-santos-80ab14161/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/error_404p/)](https://www.instagram.com/error_404p/ "Pedro Henrique no Instagram")
 
 --
 ### Olá, seja muito bem-vindo!
